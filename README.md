@@ -6,17 +6,29 @@ Fivem Ready
 3. Done enjoy your fallout aqv
 
 **INCLUDES ALL FILES**
+
 **stream**
+
 -aqv1.yft
+
 -aqv1.ytd
+
 -aqv1_hi.yft
+
 -----------------------
+
 __resource.lua
+
 aqvContentunlocks.meta
+
 carcols.meta
+
 carvariations.meta
+
 dlctext.meta
+
 handling.meta
+
 vehicles.meta
 
 **DISCLAIMER** I DID NOT MAKE THE CAR I CUSTOM MADE THE SKIN FOR IT
